@@ -1,5 +1,4 @@
 ; To install flycheck from MELPA, evaluate:
-;
 ; (add-hook 'markdown-mode-hook #'flycheck-mode)
 ; (add-hook 'text-mode-hook #'flycheck-mode)
 
